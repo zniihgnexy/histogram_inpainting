@@ -1,0 +1,6 @@
+[submodule "thirdparty/DiffusionEdge"]
+	path = thirdparty/DiffusionEdge
+	url = https://github.com/GuHuangAI/DiffusionEdge.git
+[submodule "thirdparty/MAT"]
+	path = thirdparty/MAT
+	url = https://github.com/fenglinglwb/MAT.git
